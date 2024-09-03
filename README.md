@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanmay Gejapati</h1>
-<h3 align="center">An aspiring computer vision researcher from the **Indian Institute of Technology, Bombay**</h3>
+<h3 align="center">An aspiring computer vision researcher from the <bold>Indian Institute of Technology, Bombay</bold></h3>
+
 
 - 🔭 I’m currently working on
   - Interactive Few-Shot Segmentation
