@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Tanmay Gejapati</h1>
+<h3 align="center">An aspiring computer vision researcher from the **Indian Institute of Technology, Bombay**</h3>
 
-<!--
-**tanmay4269/tanmay4269** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on
+  - Interactive Few-Shot Segmentation
+  - Few-Shot Vision Question Answering (VQA)
 
-Here are some ideas to get you started:
+- 👯 I’m looking to collaborate on Computer vision research. My interests include:
+  - Designing perception models for autonomous vehicles
+  - **Meta-learning:** domain alignment and few-shot learning
+  - **Vision language modeling:** vision question answering and captioning
+  - **Reinforcement Learning**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📄 My [Resume](https://drive.google.com/file/d/13dTQhpBNhQmCAbZiGsedtsIxDDGzdGlU/view?usp=drive_link)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://twitter.com/tanmay4269" target="blank">Twitter</a> |
+  <a href="https://linkedin.com/in/tanmay-gejapati-51546326b" target="blank">LinkedIn</a> |
+  <a href="mailto:tanmay4269@gmail.com" target="blank">Email</a>
+</p>
