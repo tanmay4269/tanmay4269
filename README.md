@@ -2,11 +2,11 @@
 <h3 align="center">An aspiring computer vision researcher from the <bold>Indian Institute of Technology, Bombay</bold></h3>
 
 
-- 🔭 I’m currently working on
+- I’m currently working on
   - Interactive Few-Shot Segmentation
   - Few-Shot Vision Question Answering (VQA)
 
-- 👯 I’m looking to collaborate on Computer vision research. My interests include:
+- I’m looking to collaborate on Computer vision research. My interests include:
   - Designing perception models for autonomous vehicles
   - **Meta-learning:** domain alignment and few-shot learning
   - **Vision language modeling:** vision question answering and captioning
