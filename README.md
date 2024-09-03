@@ -12,7 +12,7 @@
   - **Vision language modeling:** vision question answering and captioning
   - **Reinforcement Learning**
 
-<p align="centre">
+<p align="center">
   <a href="https://drive.google.com/file/d/13dTQhpBNhQmCAbZiGsedtsIxDDGzdGlU/view?usp=drive_link" target="blank">Resume</a> |
   <a href="mailto:tanmay4269@gmail.com" target="blank">Email</a> |
   <a href="https://twitter.com/tanmay4269" target="blank">Twitter</a> |
