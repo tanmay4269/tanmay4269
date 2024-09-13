@@ -1,4 +1,4 @@
-<h3 align="center">Hi, I'm an aspiring computer vision researcher from the <bold>Indian Institute of Technology, Bombay</bold></h3>
+<h3 align="center">Hi, I'm an aspiring computer vision researcher</bold></h3>
 
 
 - I’m currently working on
