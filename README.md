@@ -1,15 +1,11 @@
 <h3 align="center">Hi, I'm an aspiring computer vision researcher</bold></h3>
 
-
-- I’m currently working on
-  - Interactive Few-Shot Segmentation
-  - Few-Shot Vision Question Answering (VQA)
-
-- I’m looking to collaborate on Computer vision research. My interests include:
-  - Designing perception models for autonomous vehicles
-  - **Meta-learning:** domain alignment and few-shot learning
-  - **Vision language modeling:** vision question answering and captioning
-  - **Reinforcement Learning**
+- I’m currently interested in the following fields:
+  - 2D and 3D semantic segmentation
+  - Few-shot learning
+  - Weakly supervised learning
+  - Domain adaptation
+  - Vision Question Answering (VQA)
 
 <p align="center">
   <a href="https://drive.google.com/file/d/13dTQhpBNhQmCAbZiGsedtsIxDDGzdGlU/view?usp=drive_link" target="blank">Resume</a> |
