@@ -1,0 +1,25 @@
+Motivation Letter: Aalto Science Institute Summer Research Program
+
+Dear Selection Committee,
+As a Computer Science and Engineering student at IIT Bombay with a strong foundation in mathematical theory and deep learning research, I am writing to express my keen interest in the Aalto Science Institute summer research program, particularly in projects 4204 (Machine Learning: Foundations and New Frontiers) and 2305 (Simulating human behaviour in traffic).
+Mathematical Foundation & Research Interests
+My mathematical background, particularly in differential equations and linear algebra, aligns well with Project 4204's focus on Neural ODEs and geometric learning. Through coursework in differential equations, I've studied Lipschitz conditions and Picard's theorem, which I understand are fundamental to the theoretical foundations of Neural ODEs. My linear algebra coursework, covering inner product spaces, orthogonal transformations, and the spectral theorem for symmetric matrices, provides the theoretical foundation necessary for understanding geometric deep learning and representation theory. Currently, I'm expanding this knowledge through a course on graph neural networks, which I believe will be valuable for working on the group's research in topological methods and geometric learning.
+Research Experience & Technical Achievements
+This theoretical foundation complements my practical research experience. In my Interactive Few-Shot Segmentation (iFSS) project, I faced a critical design decision regarding backbone architecture selection. Despite the growing popularity of transformer-based models, I chose a CNN-based approach after careful analysis of our constraints - limited data, computational resources, and the challenge of domain adaptation to medical images. This decision proved crucial as we achieved:
+•	Improvement in segmentation accuracy from 48.27% to 89.05% IoU on PascalVOC-5i dataset
+•	80% reduction in manual annotation time
+•	Successful bridging of theoretical understanding with practical implementation constraints
+
+My work on the ICRA 2024 RoboDrive Challenge, where our team secured 4th position internationally in 3D object detection under sensor failure, further demonstrates my ability to apply theoretical concepts to real-world problems. When our team faced divergent views on improving the fusion module, I encouraged a systematic approach - having team members analyse multiple directions including feature reconstruction and unified 3D queries. This led to our implementation of a unified sampling mechanism using deformable attention, effectively combining LiDAR and camera data to achieve state-of-the-art performance (mAP 0.30, surpassing the previous SOTA of 0.25).
+Research Philosophy & Approach
+This combination of theoretical knowledge and hands-on experience has shaped my approach to research challenges. When working on the RoboDrive Challenge, I learned that breakthrough innovations often emerge at the intersection of solid mathematical foundations and creative problem-solving. Our success in developing a unified sampling mechanism wasn't just about implementing complex algorithms; it required understanding the underlying geometric principles of 3D space and the mathematical foundations of attention mechanisms. This experience reinforced my belief in the importance of bridging theoretical insights with practical implementations, an approach that aligns perfectly with Project 4204's focus on foundational machine learning research.
+Project Interests & Preparation
+For Project 2305, while I don't have direct experience with CARLA, my background in 3D object detection and sensor fusion provides a strong foundation for understanding complex traffic scenarios. I plan to utilize the month before the June start date to familiarize myself with CARLA, focusing particularly on its pedestrian behaviour modelling capabilities.
+Future Goals 
+Looking ahead, I aim to pursue a Ph.D. focused on developing theoretically grounded, robust AI systems that can effectively bridge the gap between mathematical foundations and real-world applications. The opportunity to work with Professor Garg's group, particularly on their work in compositional models and geometric learning, would be invaluable in this journey.
+
+
+I am available from May and would use the preparation time to study relevant papers from both research groups and familiarize myself with necessary tools and frameworks. I am particularly excited about the possibility of contributing to Aalto's research community and learning from its diverse, international research environment.
+Thank you for considering my application.
+Sincerely,  
+Tanmay Gejapati
