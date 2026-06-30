@@ -1,11 +1,12 @@
-<h3 align="center">Hi, I'm an aspiring computer vision researcher</bold></h3>
+<h3 align="center">Hi, I'm an aspiring AI Safety researcher</bold></h3>
 
 - Current Interests:
   - Mechanistic Interpretability
-  - Continual Learning
   - Human Centric AI
+  - AI Safety
 
-- Past Interests:
+- Past Interests: Computer Vision Related
+  - Continual Learning
   - 2D and 3D semantic segmentation
   - Few-shot learning
   - Weakly supervised learning
