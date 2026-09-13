@@ -11,5 +11,5 @@ My work spans computer vision and independent AI safety research:
 	<a href="https://tanmay4269.github.io/">Website</a> |
 	<a href="https://drive.google.com/file/d/1R9hJu1bs5agiW4SA7JEPak0n7VOlGgt-/view?usp=sharing">Resume</a> |
 	<a href="https://linkedin.com/in/tanmay-gejapati-51546326b">LinkedIn</a> |
-	<a href="mailto:tanmay.t.v.g@gmail.com">Email</a>
+	<a href="https://tanmay4269.github.io/#contact">Email</a>
 </p>
